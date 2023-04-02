@@ -1,0 +1,17 @@
+XMinimap.Lang = {
+	["Anchor"]="Show Anchor",
+	["Size"]="Absolute Size :",
+	["Style"]="Style",
+	["Switch"]="Quick Switch",
+	["Zone"]="Zone Name",
+	["Time"]="Map Time",
+	["Coord"]="Coordinate",
+	["Tab1"]="Minimap",
+	["Tab2"]="Buttons",
+	["Left"]="Left-Click to toggle Minimap.",
+	["Right"]="Right-Click to open Minimap buttons menu.",
+	["Middle"]="Middle-Click to toggle Worldmap.",
+	["Saved"]="config saved.",
+	["Load"]="loaded, type",
+	["ToConfig"]="to config.",
+}

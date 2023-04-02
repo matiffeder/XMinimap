@@ -1,0 +1,17 @@
+XMinimap.Lang = {
+	["Anchor"]="Montrer Encrage",
+	["Size"]="Taille absolu :",
+	["Style"]="Style",
+	["Switch"]="Commutateur rapide",
+	["Zone"]="Nom Zone",
+	["Time"]="HeureCarte",
+	["Coord"]="Coordonner",
+	["Tab1"]="Mini-Carte",
+	["Tab2"]="Boutons",
+	["Left"]="Click-Gauche toggles la Minicarte.",
+	["Right"]="Right-Click to open Minimap buttons menu.",
+	["Middle"]="Click-milieu toggles la Carte du monde.",
+	["Saved"]="configation sauvegard\195\169.",
+	["Load"]="chargés, tapez",
+	["ToConfig"]="pour configurer",
+}

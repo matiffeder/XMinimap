@@ -1,0 +1,17 @@
+XMinimap.Lang = {
+	["Anchor"]="アンカー表示",
+	["Size"]="実寸 :",
+	["Style"]="スタイル",
+	["Switch"]="クイックスイッチ",
+	["Zone"]="ゾーン名",
+	["Time"]="マップ時間",
+	["Coord"]="座標",
+	["Tab1"]="ミニマップ",
+	["Tab2"]="ボタン",
+	["Left"]="左クリックでミニマップを切り替えます.",
+	["Right"]="Right-Click to open Minimap buttons menu.",
+	["Middle"]="中クリックでワールドマップを切り替えます.",
+	["Saved"]="設定を保存しました.",
+	["Load"]="読み込みました, 入力",
+	["ToConfig"]="設定メニューを開く.",
+}
